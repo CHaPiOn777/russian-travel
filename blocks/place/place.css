@@ -9,3 +9,26 @@
   "title link"
   "img paragraph"
 }
+
+@media screen and (max-width: 1280px) {
+  .place {
+   column-gap: 32px;
+  } 
+}
+
+@media screen and (max-width: 1024px) {
+  .place {
+    column-gap: 28px;
+  } 
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    row-gap: 32px;
+    grid-template-areas: 
+    "title"
+    "link"
+    "img"
+    "paragraph"
+  } 
+}
