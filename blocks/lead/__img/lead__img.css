@@ -1,4 +1,5 @@
 .lead__img {
+  margin: auto;
   max-width: 984px;
   max-height: 615px;
 }
@@ -20,8 +21,8 @@
 
 @media screen and (max-width: 768px) {
   .lead__img {
-    max-width: 320px;
+    max-width: 310px;
     max-height: 200px;
-    margin-left: -16px;
+    margin-left: -13px;
   } 
 }
