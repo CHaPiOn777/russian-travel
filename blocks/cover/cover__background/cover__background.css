@@ -2,7 +2,7 @@
   background-image: url(../../../images/__background.png);
   background-size: cover;
   background-position: center center;
-  min-width: 100%;
+  min-width: 111%;
   height: 740px;
 }
 
@@ -20,6 +20,7 @@
 
 @media screen and (max-width: 768px) {
   .cover__background {
-    height: 190px;
+    min-width: 111%;
+    height: 200px;
   } 
 }
