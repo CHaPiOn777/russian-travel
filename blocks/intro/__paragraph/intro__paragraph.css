@@ -7,7 +7,7 @@
   margin-top: 40px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .intro__paragraph {
     max-width: 720px;
   } 

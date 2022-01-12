@@ -4,9 +4,9 @@
   line-height: 16px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
-    margin-top: 54px;
+    margin-top: 48px;
     line-height: 14px;
   } 
 }
