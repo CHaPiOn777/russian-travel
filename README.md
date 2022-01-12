@@ -4,4 +4,6 @@
 В этом проекте впервые сделал адаптивную верстку и использовал Grid  
 _Ссылка на проект_: https://chapion777.github.io/russian-travel/  
   
+[_Ссылка на проект_](https://chapion777.github.io/russian-travel/)  
+  
 Проект сделан на русском языке
